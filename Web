@@ -1,4 +1,6 @@
 <?php
 echo "HOLA MUNDO\n"; 
 echo "HOLA MUNDO \ n";
+echo "HOLA MUNDO \ ";
+
   ?>
